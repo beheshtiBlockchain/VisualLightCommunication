@@ -10,7 +10,7 @@ the VLC project works exactly like a radio. actually an "unsynchronized" one and
 we use Hardware timers and set the timer counter to zero when it synchronizes so as not to lose a bit of data and consequently the codeword.
 
 # Results
-when the hardwaretimers are set to have 50 milliseconds of count, the results are more precise than 10 milliseconds timer but the buffer is used and the datas take time to pass through the LED. 
+when the hardwaretimers are set to have 50 milliseconds of count, the results are more precise than 10 milliseconds timer but the buffer is used and the data take time to pass through the LED. 
 
 # Bonus
 A ps/2 keyboard is used to eliminiate the serial usage as data provider and make the project more structured.
