@@ -21,4 +21,4 @@ when the hardware timers are set to have 50 milliseconds of count, the results a
 # Bonus
 A ps/2 keyboard is used to eliminiate the serial usage as data provider and make the project more structured.
 
-![ps/2 + arduino VLC](images/implementation.jpg)
+![ps/2 + arduino VLC](images/implementation2.jpg)
