@@ -16,7 +16,7 @@ DUETimer.h
 the first one could be downloaded from https://github.com/PaulStoffregen/PS2Keyboard and unzipped into  C:/Users/{User_Name}/Documents/Arduino/Libraries/(the library name should be here as folder)
 the second one could be found in the library menu as "DUETimer" or download from the link below , copying it into C:/Users/{User_Name}/Documents/Arduino/Libraries.
 # Results
-when the hardwaretimers are set to have 50 milliseconds of count, the results are more precise than 10 milliseconds timer but the buffer is used and the data take time to pass through the LED. 
+when the hardware timers are set to have 50 milliseconds of count, the results are more precise than 10 milliseconds timer but the buffer is used and the data take time to pass through the LED. 
 
 # Bonus
 A ps/2 keyboard is used to eliminiate the serial usage as data provider and make the project more structured.
