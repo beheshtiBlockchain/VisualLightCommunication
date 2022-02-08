@@ -13,8 +13,8 @@ we use Hardware timers and set the timer counter to zero when it synchronizes so
 below libraries are need for this project to work
 PS2Keyboard.h
 DUETimer.h
-the first one could be downloaded from https://github.com/PaulStoffregen/PS2Keyboard and unzipped into  C:/Users/{User=Name}/Documents/Arduino/Libraries/(the library name should be here as folder)
-the second one could be found in the library menu as "DUETimer" or download from the link below , copying it into C:/Users/{User=Name}/Documents/Arduino/Libraries.
+the first one could be downloaded from https://github.com/PaulStoffregen/PS2Keyboard and unzipped into  C:/Users/{User_Name}/Documents/Arduino/Libraries/(the library name should be here as folder)
+the second one could be found in the library menu as "DUETimer" or download from the link below , copying it into C:/Users/{User_Name}/Documents/Arduino/Libraries.
 # Results
 when the hardwaretimers are set to have 50 milliseconds of count, the results are more precise than 10 milliseconds timer but the buffer is used and the data take time to pass through the LED. 
 
