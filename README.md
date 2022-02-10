@@ -15,11 +15,7 @@ We need the Libraries below for this project to work
 PS2Keyboard.h
 DUETimer.h
 ```
-you can download the first one from 
-```
-https://github.com/PaulStoffregen/PS2Keyboard
-```
-and unzip it into 
+you can download the first one from [this link](https://github.com/PaulStoffregen/PS2Keyboard) and unzip it into 
 ```
 C:/Users/{User_Name}/Documents/Arduino/Libraries/(the library name should be here as the folder name).
 ```
