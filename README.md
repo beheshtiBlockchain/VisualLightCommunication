@@ -23,7 +23,7 @@ and unzip it into
 ```
 C:/Users/{User_Name}/Documents/Arduino/Libraries/(the library name should be here as the folder name).
 ```
-You can also find the second in the library manager menu as "DUETimer" or download from [the link] (https://github.com/ivanseidel/DueTimer), copy it into 
+You can also find the second in the library manager menu as "DUETimer" or download from [the link](https://github.com/ivanseidel/DueTimer), copy it into 
 ```
 C:/Users/{User_Name}/Documents/Arduino/Libraries.
 ```
